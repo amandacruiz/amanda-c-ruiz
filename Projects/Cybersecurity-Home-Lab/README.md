@@ -57,9 +57,12 @@ Commands practiced:
 
 ![Kali Nmap Network Enumeration](screenshots/kali-nmap-network-enumeration.png)
 
-### Ubuntu SSH Configuration
+### Ubuntu SSH Service Configuration
 
-Configured and verified the SSH service on an Ubuntu virtual machine as part of practicing Linux fundamentals and secure remote access concepts.
+Configured and verified the SSH service on an Ubuntu virtual machine using `systemctl` to check service status. This exercise helped build familiarity with Linux service management and secure remote access concepts.
+
+Command practiced:
+- `sudo systemctl status ssh`
 
 ![Ubuntu SSH Status](screenshots/ubuntu-ssh-status.png)
 

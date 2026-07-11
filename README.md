@@ -32,15 +32,17 @@ I am building practical cybersecurity skills through hands-on labs, technical pr
 
 ## Projects
 
-### Completed
+### Cybersecurity Home Lab
+Building and documenting a VirtualBox-based cybersecurity lab environment for practicing networking, Linux, and security concepts.
 
-- Virtual Cybersecurity Lab Setup Using Oracle VM VirtualBox
-- Network Discovery and Port Scanning with Nmap
-- Configuring Remote Access with OpenSSH on Linux
-- Linux Command Line and System Management Basics
+### Network Discovery and Enumeration
+Practicing network reconnaissance techniques using Nmap to identify open ports, services, and system information in a controlled lab environment.
 
-### In Progress
+### Linux Administration Fundamentals
+Developing Linux skills through Ubuntu virtual machine configuration, command-line practice, and secure remote access using SSH.
 
-- Documenting cybersecurity home lab configurations and exercises
-- Expanding hands-on practice through TryHackMe and Hack The Box
-- Building projects focused on vulnerability assessment and security analysis
+### Future Projects
+- Vulnerability assessment and security scanning
+- Network traffic analysis with Wireshark
+- Digital forensics investigations
+- Capture-the-Flag (CTF) write-ups from TryHackMe and Hack The Box

@@ -57,7 +57,11 @@ Commands practiced:
 
 ![Kali Nmap Network Enumeration](screenshots/kali-nmap-network-enumeration.png)
 
+### Ubuntu SSH Configuration
 
+Configured and verified the SSH service on an Ubuntu virtual machine as part of practicing Linux fundamentals and secure remote access concepts.
+
+![Ubuntu SSH Status](screenshots/ubuntu-ssh-status.png)
 
 ## Challenges and Lessons Learned
 

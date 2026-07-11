@@ -1,11 +1,9 @@
 # Hi, I'm Amanda Ruiz 👋
 <a href="https://www.linkedin.com/in/amanda-ruiz-shrm-cp-4b37091b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity student building hands-on labs and projects focused on networking, system security, and threat analysis.
+Cybersecurity student building hands-on labs and projects focused on networking, Linux, system security, and security analysis.
 
-## Objective
-
-My goal is to develop practical cybersecurity skills through hands-on labs and technical projects while preparing for a career in the security field.
+I am building practical cybersecurity skills through hands-on labs, technical projects, and community involvement while pursuing my BAS in Cybersecurity. My interests include network security, vulnerability assessment, and digital forensics.
 
 ## Skills
 

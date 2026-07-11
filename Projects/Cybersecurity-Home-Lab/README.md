@@ -47,6 +47,15 @@ The goal of this lab is to build a foundation in cybersecurity by practicing:
 
 ## Lab Evidence
 
+### Ubuntu SSH Service Configuration
+
+Configured and verified the SSH service on an Ubuntu virtual machine using `systemctl` to check service status. This exercise helped build familiarity with Linux service management and secure remote access concepts.
+
+Command practiced:
+- `sudo systemctl status ssh`
+
+![Ubuntu SSH Status](screenshots/ubuntu-ssh-status.png)
+
 ### Network Enumeration Using Nmap
 
 Used Kali Linux within the lab environment to perform network enumeration against a target virtual machine. Initial scanning with Nmap helped identify available services, followed by targeted service detection to examine SSH availability on port 22.
@@ -56,15 +65,6 @@ Commands practiced:
 - `nmap -sV -p 22 <target IP>`
 
 ![Kali Nmap Network Enumeration](screenshots/kali-nmap-network-enumeration.png)
-
-### Ubuntu SSH Service Configuration
-
-Configured and verified the SSH service on an Ubuntu virtual machine using `systemctl` to check service status. This exercise helped build familiarity with Linux service management and secure remote access concepts.
-
-Command practiced:
-- `sudo systemctl status ssh`
-
-![Ubuntu SSH Status](screenshots/ubuntu-ssh-status.png)
 
 ## Challenges and Lessons Learned
 

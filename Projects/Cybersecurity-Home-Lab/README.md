@@ -45,6 +45,20 @@ The goal of this lab is to build a foundation in cybersecurity by practicing:
 - Troubleshooting system and connectivity issues
 - Building a safe environment for cybersecurity practice
 
+## Lab Evidence
+
+### Network Enumeration Using Nmap
+
+Used Kali Linux within the lab environment to perform network enumeration against a target virtual machine. Initial scanning with Nmap helped identify available services, followed by targeted service detection to examine SSH availability on port 22.
+
+Commands practiced:
+- `nmap -A <target IP>`
+- `nmap -sV -p 22 <target IP>`
+
+![Kali Nmap Network Enumeration](screenshots/kali-nmap-network-enumeration.png)
+
+
+
 ## Challenges and Lessons Learned
 
 Building this lab helped me better understand how cybersecurity concepts connect together in a practical environment. Some of the biggest learning points were configuring virtual machine networking, troubleshooting connectivity, and becoming more comfortable working with Linux environments.

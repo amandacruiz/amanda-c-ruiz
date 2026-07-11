@@ -27,3 +27,20 @@ The goal of this lab is to build a foundation in cybersecurity by practicing:
 - Networking concepts
 - Security tool usage
 - Troubleshooting in an isolated environment
+
+## Tools and Skills Practiced
+
+### Tools
+- Oracle VM VirtualBox
+- Ubuntu Linux
+- Kali Linux
+- Nmap
+- SSH
+
+### Skills Developed
+- Creating and managing virtual machines
+- Configuring virtual networking environments
+- Working with Linux command-line tools
+- Performing basic network enumeration
+- Troubleshooting system and connectivity issues
+- Building a safe environment for cybersecurity practice

@@ -44,3 +44,19 @@ The goal of this lab is to build a foundation in cybersecurity by practicing:
 - Performing basic network enumeration
 - Troubleshooting system and connectivity issues
 - Building a safe environment for cybersecurity practice
+
+## Challenges and Lessons Learned
+
+Building this lab helped me better understand how cybersecurity concepts connect together in a practical environment. Some of the biggest learning points were configuring virtual machine networking, troubleshooting connectivity, and becoming more comfortable working with Linux environments.
+
+This project reinforced the importance of understanding foundational concepts such as networking, operating systems, and system administration before moving into more advanced security topics.
+
+## Future Improvements
+
+As I continue developing my cybersecurity skills, I plan to expand this lab by adding additional exercises and tools, including:
+
+- More structured Linux administration practice
+- Network traffic analysis exercises
+- Vulnerability assessment practice
+- Additional virtual machines for security testing
+- Documentation of cybersecurity challenges and labs from platforms such as TryHackMe and Hack The Box

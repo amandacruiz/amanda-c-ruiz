@@ -33,12 +33,17 @@ I am building practical cybersecurity skills through hands-on labs, technical pr
 ## Projects
 
 ### Cybersecurity Home Lab
+
 Building and documenting a VirtualBox-based cybersecurity lab environment for practicing networking, Linux, and security concepts.
 
+[View Project Documentation](Projects/Cybersecurity-Home-Lab/README.md)
+
 ### Network Discovery and Enumeration
+
 Practicing network reconnaissance techniques using Nmap to identify open ports, services, and system information in a controlled lab environment.
 
 ### Linux Administration Fundamentals
+
 Developing Linux skills through Ubuntu virtual machine configuration, command-line practice, and secure remote access using SSH.
 
 ### Future Projects

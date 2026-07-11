@@ -18,13 +18,17 @@ I am building practical cybersecurity skills through hands-on labs, technical pr
 ## Tools
 
 ### Operating Systems
-<div>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
+- Ubuntu Linux
+- Kali Linux
 
-### Virtualization/Lab Environment
-<div>
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
+### Virtualization & Lab Environment
+- Oracle VM VirtualBox
+
+### Networking & Security Tools
+- Nmap
+- SSH
+- TryHackMe (hands-on cybersecurity labs)
+- Hack The Box (hands-on cybersecurity challenges)
 
 ## Projects
 - Virtual Cybersecurity Lab Setup Using Oracle VM VirtualBox

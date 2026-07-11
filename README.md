@@ -7,11 +7,13 @@ I am building practical cybersecurity skills through hands-on labs, technical pr
 
 ## Skills
 
-| Skill                                        | Associated Project              |
-|----------------------------------------------|---------------------------------|
-| Network Scanning                             | Nmap network scan lab identifying open ports and services |
-| Linux System Administration                  | Configuring and troubleshooting SSH service on a Linux virtual machine |
-| Virtualization                               | Building a cybersecurity lab environment using virtual machines |
+| Skill | Evidence |
+| --- | --- |
+| Network Enumeration | Using Nmap to identify open ports, services, and network information |
+| Linux Fundamentals | Working with Ubuntu virtual machines, command-line tools, and SSH configuration in a cybersecurity lab environment |
+| Virtualization | Building and managing a cybersecurity home lab using VirtualBox virtual machines |
+| Cybersecurity Fundamentals | Applying security concepts through BAS Cybersecurity coursework and hands-on labs |
+| Security Analysis | Practicing investigation, enumeration, and problem-solving techniques through cybersecurity exercises |
 
 ## Tools
 

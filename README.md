@@ -32,11 +32,18 @@ I am building practical cybersecurity skills through hands-on labs, technical pr
 
 ## Projects
 
+## Featured Projects
+
 ### Cybersecurity Home Lab
+Built a segmented VirtualBox lab environment using Kali Linux and Ubuntu to practice:
+- Linux administration
+- Networking fundamentals
+- SSH configuration
+- Vulnerability scanning
+- Security analysis
 
-Building and documenting a VirtualBox-based cybersecurity lab environment for practicing networking, Linux, and security concepts.
-
-[View Project Documentation](Projects/Cybersecurity-Home-Lab/README.md)
+View the full documentation:
+[Cybersecurity Home Lab](https://github.com/amandacruiz/cybersecurity-home-lab)
 
 ### Network Discovery and Enumeration
 

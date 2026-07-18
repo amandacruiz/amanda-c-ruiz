@@ -30,9 +30,21 @@ I am building practical cybersecurity skills through hands-on labs, technical pr
 - TryHackMe (hands-on cybersecurity labs)
 - Hack The Box (hands-on cybersecurity challenges)
 
-## Projects
+## Professional Development
 
-## Featured Projects
+### WiCyS Webinar: Securely Adding AI to Your Dev Team
+
+**Provider:** WiCyS  
+**Completed:** July 2026  
+
+**Topics covered:**
+- AI security risks and emerging attack surfaces
+- Secure adoption of AI tools in development environments
+- Application security and secure development practices
+
+📄 [View Certificate](professional-development/certificates/wicys-securely-adding-ai-to-your-dev-team-certificate.pdf)
+
+## Projects
 
 ### Cybersecurity Home Lab
 Built a segmented VirtualBox lab environment using Kali Linux and Ubuntu to practice:
@@ -42,8 +54,8 @@ Built a segmented VirtualBox lab environment using Kali Linux and Ubuntu to prac
 - Vulnerability scanning
 - Security analysis
 
-View the full documentation:
-[Cybersecurity Home Lab](https://github.com/amandacruiz/cybersecurity-home-lab)
+Full documentation:
+[Cybersecurity Home Lab Repository](https://github.com/amandacruiz/cybersecurity-home-lab)
 
 ### Network Discovery and Enumeration
 
@@ -53,7 +65,7 @@ Practicing network reconnaissance techniques using Nmap to identify open ports, 
 
 Developing Linux skills through Ubuntu virtual machine configuration, command-line practice, and secure remote access using SSH.
 
-### Future Projects
+### Planned Projects
 - Vulnerability assessment and security scanning
 - Network traffic analysis with Wireshark
 - Digital forensics investigations
